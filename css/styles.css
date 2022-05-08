@@ -1,0 +1,14 @@
+h1{margin:50px 0px}
+.errText{color:#ff0000}
+.errStyle{border:solid 1px #ff0000}
+.invalidText{padding:10px; margin-bottom:20px; color:#fff; background: #ff0000;}
+.validText{padding:10px; margin-bottom:20px; color:#fff; background: #09ff00;}
+
+.bookings-table .p-4:nth-child(even){background-color: #f8f9fa!important;}
+.bookings-table .p-4:nth-child(even) p{color: #343a40!important;}
+
+.bookings-table .p-4:nth-child(odd){background-color: #343a40!important;}
+.bookings-table .p-4:nth-child(odd) p{color: #f8f9fa!important;}
+#lottie-controls{display:none!important}
+header{height:100vh}
+
